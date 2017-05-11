@@ -1,0 +1,7 @@
+@comment $OpenBSD$
+lib/tcl/tclnop_cmd/
+lib/tcl/tclnop_cmd/libtnop_cmd.so
+lib/tcl/tclnop_cmd/pkgIndex.tcl
+share/doc/tclnop_cmd/
+share/doc/tclnop_cmd/LICENSE
+share/doc/tclnop_cmd/tclnop_cmd.txt

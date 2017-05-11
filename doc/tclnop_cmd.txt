@@ -1,0 +1,16 @@
+NAME
+	Tclnop_cmd - Tcl no-operation command
+
+SYNOPSIS
+	package require Tcl 8.5
+
+	package require nop_cmd
+
+	nop ?arg ...?
+
+DESCRIPTION
+	The Tclnop_cmd extension provides a no-operation command.
+
+COMMAND
+	nop
+		Returns an empty string.
